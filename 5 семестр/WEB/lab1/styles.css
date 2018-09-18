@@ -1,0 +1,57 @@
+.header{
+    width: auto;
+    height: 100px;
+}
+.menu{
+    width: 200px;
+    height: 400px;
+    border: 1px solid black;
+    float: left;
+}
+.content{
+    width: content-box;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: auto;
+
+}
+.footer{
+    width: auto;
+    height: 130px;
+    border: 1px solid black;
+    margin-bottom: auto;
+    background: mistyrose;
+}
+.menuTable{
+    width: 274px;
+    height: 95px;
+    text-align: center;
+    font-size: 20px;
+    color: blueviolet;
+    font-variant: small-caps;
+    font-weight: 300;
+    border-collapse: collapse;
+}
+
+a {
+    color: #497DDD;
+    text-decoration: none;
+}
+a:hover {
+    color: #154088;
+}
+a:active {
+    color: #497DDD;
+}
+.contentPageAboutMe{
+
+    width: content-box;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.studyTable{
+    font-size: 20px;
+    border: 2px black;
+
+}
